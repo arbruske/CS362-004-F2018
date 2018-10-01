@@ -1,1 +1,1 @@
-Aleksander Bruske bruskea
+This is myassignment-1 submission!
